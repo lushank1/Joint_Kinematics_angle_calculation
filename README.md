@@ -22,11 +22,28 @@ An interesting aspect is that the script labels markers based on their order in 
 
 ⭐Output:
 
-![image](https://github.com/user-attachments/assets/545a8c34-0704-4827-9278-2ff9471d7713)
+LEVEL WALKING:
+
+
+https://github.com/user-attachments/assets/a4ccc897-81dc-4652-b79c-02469214d1af
+
+
+SLOPE WALKING:
+
+
+https://github.com/user-attachments/assets/81902c87-69cb-4dd5-9034-e2ee0dea4995
+
+
+STARICASE ASCEND:
 
 
 
-https://github.com/user-attachments/assets/2dfb8707-4789-435a-b8e0-f8d882b4a27b
+https://github.com/user-attachments/assets/598accd7-691e-4c03-b79e-f7754c443cff
+
+
+
+
+
 
 
 
