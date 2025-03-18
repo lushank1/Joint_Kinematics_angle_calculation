@@ -25,20 +25,22 @@ An interesting aspect is that the script labels markers based on their order in 
 LEVEL WALKING:
 
 
-https://github.com/user-attachments/assets/a4ccc897-81dc-4652-b79c-02469214d1af
+![Untitled video - Made with Clipchamp (2)](https://github.com/user-attachments/assets/7a088d55-61c5-4264-9b77-47902ebf4572)
 
 
 SLOPE WALKING:
 
 
-https://github.com/user-attachments/assets/81902c87-69cb-4dd5-9034-e2ee0dea4995
+![Untitled video - Made with Clipchamp (3)](https://github.com/user-attachments/assets/1858ba16-a260-43e9-8be7-e541cc041415)
+
 
 
 STARICASE ASCEND:
 
 
 
-https://github.com/user-attachments/assets/598accd7-691e-4c03-b79e-f7754c443cff
+![Untitled video - Made with Clipchamp (4)](https://github.com/user-attachments/assets/fa301ad3-8bd2-46bc-a71e-e98d8d1d000b)
+
 
 
 
